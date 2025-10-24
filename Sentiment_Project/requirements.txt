@@ -1,0 +1,12 @@
+pandas==2.3.2
+numpy==1.24.3
+matplotlib==3.10.6
+seaborn==0.13.2
+scikit-learn==1.2.2
+hazm==0.10.0
+wordcloud==1.9.4
+arabic-reshaper==3.0.0
+python-bidi==0.6.6
+webdriver-manager==4.0.2
+selenium==4.35.0
+imbalanced-learn==0.10.1
